@@ -1,0 +1,5 @@
+Gen 2 versions from this list:
+
+Version 1 (full): 4 lines per item = Hiragana, Kanji, English, Romaji (Romaji last). No extra commentary. Separate items with a blank line.
+
+Version 2 (hiragana-only): one item per line, same order as Version 1, no extra text.
