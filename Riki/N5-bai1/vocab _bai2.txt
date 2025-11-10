@@ -1,0 +1,85 @@
+かさ - umbrella
+かばん - bag
+ノート - notebook
+ほん（本） - book
+てちょう（手帳） - planner
+ボールペン - ballpoint pen
+カード - card
+かぎ - key
+とけい（時計） - watch; clock
+めいし（名刺） - business card
+ふでばこ（筆箱） - pencil case
+けしゴム（消しゴム） - eraser
+おかね（お金） - money
+しゃしん（写真） - photograph
+しんぶん（新聞） - newspaper
+けいたいでんわ（携帯電話） - cell phone
+コンピューター - computer
+スマホ - smartphone
+じしょ（辞書） - dictionary
+ざっし（雑誌） - magazine
+しんぶん（新聞） - newspaper
+つくえ（机） - desk
+いす - chair
+テレビ - television
+コンピューター - computer
+パソコン - personal computer
+カメラ - camera
+くるま（車） - car
+チョコレート - chocolate
+コーヒー - coffee
+バイク - motorcycle
+おみやげ（お土産） - souvenir
+なに（何） - what
+あのう - um...
+どうぞ - here you are; please
+これからお世話になります。 - I look forward to working with you.
+これは～です。 - This is ~.
+この～は～です。 - This ~ is ~.
+それは～です。 - That is ~.
+その～は～です。 - That ~ is ~.
+あれは～です。 - That (over there) is ~.
+あの～は～です。 - That (over there) ~ is ~.
+
+Examples:
+
+かさ - 赤いかさを持っています。(I have a red umbrella.)
+かばん - 新しいかばんを買いました。(I bought a new bag.)
+ノート - ノートに書きます。(I write in a notebook.)
+ほん（本） - 本を読みます。(I read a book.)
+てちょう（手帳） - 手帳にスケジュールを書きます。(I write my schedule in a planner.)
+ボールペン - 青いボールペンで書きます。(I write with a blue ballpoint pen.)
+カード - クレジットカードで払います。(I pay with a credit card.)
+かぎ - 車のかぎはどこですか。(Where is the car key?)
+とけい（時計） - 時計を見ます。(I look at the watch.)
+めいし（名刺） - 名刺を渡します。(I give a business card.)
+ふでばこ（筆箱） - 筆箱にペンを入れます。(I put a pen in the pencil case.)
+けしゴム（消しゴム） - 消しゴムで消します。(I erase with an eraser.)
+おかね（お金） - お金が必要です。(I need money.)
+しゃしん（写真） - 写真を撮ります。(I take a photograph.)
+しんぶん（新聞） - 毎朝新聞を読みます。(I read the newspaper every morning.)
+けいたいでんわ（携帯電話） - 携帯電話で話します。(I talk on the cell phone.)
+コンピューター - コンピューターで仕事をします。(I work on the computer.)
+スマホ - スマホでメールを送ります。(I send email with a smartphone.)
+じしょ（辞書） - 辞書で調べます。(I look it up in a dictionary.)
+ざっし（雑誌） - ファッション雑誌を読みます。(I read a fashion magazine.)
+つくえ（机） - 机の上に本があります。(There is a book on the desk.)
+いす - いすに座ります。(I sit on a chair.)
+テレビ - テレビを見ます。(I watch television.)
+パソコン - パソコンで仕事をします。(I work on a personal computer.)
+カメラ - カメラで写真を撮ります。(I take photos with a camera.)
+くるま（車） - 車で行きます。(I go by car.)
+チョコレート - チョコレートが好きです。(I like chocolate.)
+コーヒー - コーヒーを飲みます。(I drink coffee.)
+バイク - バイクに乗ります。(I ride a motorcycle.)
+おみやげ（お土産） - 日本のお土産を買います。(I buy Japanese souvenirs.)
+なに（何） - これは何ですか。(What is this?)
+あのう - あのう、すみません。(Um... excuse me.)
+どうぞ - どうぞ座ってください。(Please sit down.)
+これからお世話になります。 - これからお世話になります。よろしくお願いします。(I look forward to working with you. Best regards.)
+これは～です。 - これは私のかばんです。(This is my bag.)
+この～は～です。 - このノートは田中さんのです。(This notebook is Tanaka-san's.)
+それは～です。 - それは辞書です。(That is a dictionary.)
+その～は～です。 - その時計は高いです。(That watch is expensive.)
+あれは～です。 - あれは学校です。(That over there is a school.)
+あの～は～です。 - あの車は新しいです。(That car over there is new.)
