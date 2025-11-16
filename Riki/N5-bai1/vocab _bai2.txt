@@ -18,11 +18,9 @@
 スマホ - smartphone
 じしょ（辞書） - dictionary
 ざっし（雑誌） - magazine
-しんぶん（新聞） - newspaper
 つくえ（机） - desk
 いす - chair
 テレビ - television
-コンピューター - computer
 パソコン - personal computer
 カメラ - camera
 くるま（車） - car
@@ -33,13 +31,11 @@
 なに（何） - what
 あのう - um...
 どうぞ - here you are; please
-これからお世話になります。 - I look forward to working with you.
 これは～です。 - This is ~.
 この～は～です。 - This ~ is ~.
-それは～です。 - That is ~.
-その～は～です。 - That ~ is ~.
-あれは～です。 - That (over there) is ~.
-あの～は～です。 - That (over there) ~ is ~.
+
+
+
 
 Examples:
 
@@ -83,3 +79,40 @@ Examples:
 その～は～です。 - その時計は高いです。(That watch is expensive.)
 あれは～です。 - あれは学校です。(That over there is a school.)
 あの～は～です。 - あの車は新しいです。(That car over there is new.)
+
+
+かさ
+かばん
+ノート
+ほん（本）
+てちょう
+ボールペン
+カード
+かぎ
+とけい
+めいし
+ふでばこ
+けしゴム
+おかね
+しゃし
+しんぶん
+けいたいでんわ
+コンピューター
+スマホ
+じしょ
+ざっし
+つくえ
+いす
+テレビ
+パソコン
+カメラ
+くるま
+チョコレート
+コーヒー
+バイク
+おみやげ
+なに
+あのう
+どうぞ
+これは～です。
+この～は～です。
